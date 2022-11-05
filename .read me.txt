@@ -1,0 +1,18 @@
+
+-------------------------------------------------------------------------------------------README--------------------------------------------------------------------------------------------
+
+##  How To: double click on the html file named as index. and press any key to start make sure your internet connection is on as it uses some of the design features from bootstrap.
+
+## Introduction: This project is a memory game, for physical data structure an array is used and for the  logical  stack is used for pushing into the game pattern. when the game is started the it asks for any ke to be pressed. once yo press any key the computer creates a random function and in every lecel you have to click on the same with clicking on the pervoious pattern  and in the same order.  
+
+## Features:when the game is started the it asks for any ke to be pressed. once yo press any key the computer creates a random function and in every lecel you have to click on the same with clicking on the pervoious pattern  and in the same order.   
+
+## Executable File is named as index.html
+
+
+## Code in java script is named as game.js
+
+
+## Developed in atom editor.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
